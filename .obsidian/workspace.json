@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "e528c9aab90c8f9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "145a335c4f01d34d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69cf3f0a47644684",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4398d1607f4e8ed2",
+    "type": "split",
+    "children": [
+      {
+        "id": "21a693f6cb1aebb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b8ca7b270cff726",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "188f64d0e962ac67",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Žižkárna",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d885254965a43e8c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 205.5
+  },
+  "right": {
+    "id": "d3d7f4efdc31d057",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3d1381490dcc60e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e54bc2522eca244",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "81d5d5b5718e1665",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "816b0ca7c120fce6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ac5903b50e4a1d1d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "69cf3f0a47644684",
+  "lastOpenFiles": [
+    "zizkarna/mllm.md",
+    "zizkarna/coffee_fest.md",
+    "contacts/bands/dhogh.md",
+    "zz_mesto_lidem.txt.sb-743e9e4b-eqdxnr",
+    "personal/apartmanylipensko.md",
+    "personal/crypto.md",
+    "personal/anm_malta.md",
+    "personal/liquids.md",
+    "personal/yearplan.md",
+    "personal",
+    "zizkarna/meet_230729.md",
+    "zizkarna/todolist.md",
+    "zizkarna/husovka_event.md",
+    "personal/handy tools.md",
+    "personal/kumst.md",
+    "touchdesigner audioreactive.md",
+    "zizkarna/den_pro_uk.md",
+    "zizkarna",
+    "contacts/bands/sraja.md",
+    "contacts/bands/dj_skinny_boy.md",
+    "contacts/bands/nuly.md",
+    "contacts/bands/hruba_alzbeta.md",
+    "contacts/bands/pirosuk_viktor.md",
+    "contacts/bands/bob_kubert.md",
+    "contacts/bands/bataty.md",
+    "contacts/bands/slam_poetry.md",
+    "contacts/bands/nixons_lads.md",
+    "contacts/bands/moontalks.md",
+    "contacts/bands/drunken_pickles.md",
+    "contacts",
+    "contacts/bands",
+    "imgs/ppa.jpg",
+    "contacts/persons",
+    "imgs/pso.jpg",
+    "imgs",
+    "~/Downloads",
+    "~",
+    "Untitled.canvas"
+  ]
+}

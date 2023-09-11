@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:contacts/persons",
+      "color": {
+        "a": 1,
+        "rgb": 11468544
+      }
+    },
+    {
+      "query": "path:contacts/bands",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:imgs",
+      "color": {
+        "a": 1,
+        "rgb": 9408399
+      }
+    },
+    {
+      "query": "tag:#Žižkárna",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#coding",
+      "color": {
+        "a": 1,
+        "rgb": 65471
+      }
+    },
+    {
+      "query": "tag:#finance",
+      "color": {
+        "a": 1,
+        "rgb": 16711927
+      }
+    },
+    {
+      "query": "tag:personal",
+      "color": {
+        "a": 1,
+        "rgb": 7935
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 0.704235060459139,
+  "lineSizeMultiplier": 0.784666160406566,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.0699131939336628,
+  "close": false
+}

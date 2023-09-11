@@ -1,0 +1,12 @@
+{
+  "limitLinkDirectories": [
+    "contacts/persons",
+    "contacts/bands"
+  ],
+  "includeSymbol": true,
+  "showAddNewNote": true,
+  "addNewNoteTemplateFile": "",
+  "addNewNoteDirectory": "contacts",
+  "useCompatibilityMode": false,
+  "leavePopupOpenForXSpaces": 0
+}
