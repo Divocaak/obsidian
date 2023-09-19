@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "145a335c4f01d34d",
+        "id": "4281452f82743cf4",
         "type": "tabs",
         "children": [
           {
-            "id": "69cf3f0a47644684",
+            "id": "f6c35c5695099291",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "personal/anm_malta.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "personal/anm_malta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "personal/anm_malta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "personal/anm_malta.md"
+              }
             }
           }
         ],
@@ -139,25 +147,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69cf3f0a47644684",
+  "active": "f6c35c5695099291",
   "lastOpenFiles": [
+    "Untitled.md",
+    "touchdesigner audioreactive.md",
+    "zizkarna/todolist.md",
     "zizkarna/mllm.md",
+    "zizkarna/husovka_event.md",
+    "zizkarna/den_pro_uk.md",
     "zizkarna/coffee_fest.md",
+    "personal/yearplan.md",
+    "personal/liquids.md",
+    "personal/kumst.md",
+    "personal/handy tools.md",
+    "personal/crypto.md",
+    "personal/apartmanylipensko.md",
+    "personal/anm_malta.md",
+    "personal/workoholism.md",
+    "zizkarna/meet_230729.md",
+    "zizkarna/svetlobox.md",
     "contacts/bands/dhogh.md",
     "zz_mesto_lidem.txt.sb-743e9e4b-eqdxnr",
-    "personal/apartmanylipensko.md",
-    "personal/crypto.md",
-    "personal/anm_malta.md",
-    "personal/liquids.md",
-    "personal/yearplan.md",
     "personal",
-    "zizkarna/meet_230729.md",
-    "zizkarna/todolist.md",
-    "zizkarna/husovka_event.md",
-    "personal/handy tools.md",
-    "personal/kumst.md",
-    "touchdesigner audioreactive.md",
-    "zizkarna/den_pro_uk.md",
     "zizkarna",
     "contacts/bands/sraja.md",
     "contacts/bands/dj_skinny_boy.md",
@@ -167,9 +178,6 @@
     "contacts/bands/bob_kubert.md",
     "contacts/bands/bataty.md",
     "contacts/bands/slam_poetry.md",
-    "contacts/bands/nixons_lads.md",
-    "contacts/bands/moontalks.md",
-    "contacts/bands/drunken_pickles.md",
     "contacts",
     "contacts/bands",
     "imgs/ppa.jpg",

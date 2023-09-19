@@ -1,5 +1,7 @@
 
 #personal #diary
+
+[[vesela_annemarie|Annemarie]]
 ## neděle
 je 23:33, dávám si předspánkovou cigárku na balkoně a napadlo mě, psát si něco jako deník nebo tak, mohlo by to pomoct a víc vyjádřit, jak jsem se v jakou chvíli cítil, kdyžs tu nebyla.
 
@@ -26,3 +28,12 @@ odletělas, asi teda. je 12:39, podle tvýho berealu na letišti jsem si nějak 
 
 12:45, napsalas! radost. asi jsem to ale hned posral, protože jsem se zeptal, co budete dělat teď. zajímá mě to, chci vědět, co děláš, ne kvůli kontrole, jenom mě to prostě zajímá. nemám jak to kontrolovat.
 
+16:33, pokaždý, když jdu na cigárku, tak se koukám na tvůj instagram a br, chybí mi, nic nevědět. mám trochu strach, že jsi si mě odebrala z blízkých, nebo že mě máš bloknuou snad úplně. protože jsi tam už nějakou dobu a pořád žádný story? to je divný...
+
+16:57 šel jsem do albíku pro oběd a viděl tam moc hezké kvítí, asi ti něco kupim v pátek, chtěl bych ti udělat radost
+
+18:38, teď odjel Adam, jsem sám v ateliéru a koukám na instagram. přidalas story - hurá, žiješ a asi jsi v pořádku. hledáte negroni, takže budeš kalit. jsem s tim v pohodě. víc než o tvojí hladinku mám spíš strach o tvoje finance. moc bych se tě chtěl zeptat cos dělala celej den, jestli máš plány na večer, cos jedla a hlavně jak se asi máš. ale nesmim. vim, že nesmim, ale je to strašně těžký
+
+19:10 koukám na tvoje story, kde sedíte s gábi. máš kytku ve vlasech a moc ti to sluší, vypadáš, že si to užíváš, a že jsi v pořádku, to mám radost. jenom mi to zas vyvolává pocity, že je do tebe gábi zamilovaná, jak se po tobě válí. a z těhle pocitů přecházim i v to, že ti tu kytku do vlasů dala ona. cítím strach a bezmoc.
+
+19:43 když jsem koukal na tvoje story, tak jsem si nemohl odpustit pochválit ti pihy, protože ti to prostě fakt sluší. tak jsem to napsal. no a teď jsi mi to olikeovala, což mě trochu zamrzelo, protože to znamená, že ti nestojim ani za "děkuju," nebo tak něco. takže mám vlastně zase strach, že se něco změnilo, že jsi odtaženější, než když jsi odjížděla. bojim se tvýho návratu a to je teprve druhej den, co tu nejsi.
