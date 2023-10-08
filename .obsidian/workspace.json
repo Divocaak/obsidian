@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4281452f82743cf4",
+        "id": "2ebed225745c8b22",
         "type": "tabs",
         "children": [
           {
-            "id": "f6c35c5695099291",
+            "id": "6dda885a51efd6c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personal/anm_malta.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.5
+    "width": 253.5041847229004
   },
   "right": {
     "id": "d3d7f4efdc31d057",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/anm_malta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal/anm_malta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "personal/anm_malta.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,45 +139,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6c35c5695099291",
+  "active": "6dda885a51efd6c2",
   "lastOpenFiles": [
-    "Untitled.md",
-    "touchdesigner audioreactive.md",
+    "zizkarna/ridery.md",
+    "zizkarna/tutorials/ui_setup.md",
+    "zizkarna/tutorials/svetla_z_baru.md",
+    "zizkarna/tutorials/svetla_z_fohu.md",
+    "imgs/zz/ridery",
+    "imgs/zz/tutorial/daslight_off.jpg",
+    "imgs/zz",
+    "zizkarna/zz_8_az_22_1023.md",
+    "imgs/zz/ridery/grass.png",
+    "imgs/zz/ridery/zombieromartin.jpeg",
+    "imgs/zz/ridery/barbacans.jpeg",
+    "imgs/zz/tutorial/hlava_waiting1.jpg",
+    "imgs/zz/tutorial/hlava_on.jpg",
+    "imgs/zz/tutorial/hlava_waiting0.jpg",
+    "daslight0.jpg",
     "zizkarna/todolist.md",
-    "zizkarna/mllm.md",
-    "zizkarna/husovka_event.md",
-    "zizkarna/den_pro_uk.md",
-    "zizkarna/coffee_fest.md",
-    "personal/yearplan.md",
-    "personal/liquids.md",
-    "personal/kumst.md",
+    "zizkarna/tutorials",
+    "zizkarna/meet_230729.md",
+    "imgs/zz/tutorial/daslight_midi.jpg",
+    "imgs/zz/tutorial/daslight_layout.jpg",
+    "imgs/zztutorial/daslight_midi.jpg.sb-743e9e4b-RM3rHb",
+    "imgs/zz/tutorial",
+    "Untitled 1.md",
+    "zizkarna/svetla_danceroom_foh.md",
     "personal/handy tools.md",
     "personal/crypto.md",
+    "personal/colony.md",
+    "personal/anm_naroz.md",
+    "zizkarna/mllm.md",
     "personal/apartmanylipensko.md",
+    "personal/kumst.md",
+    "web_wireframe.md",
+    "touchdesigner audioreactive.md",
+    "imgs/ki_wireframe",
+    "clanky_tutorial.md",
+    "clanky_tutorial.txt",
+    "personal/clanky_tutorial.txt",
+    "zizkarna/coffee_fest.md",
+    "zizkarna/bigy.md",
     "personal/anm_malta.md",
-    "personal/workoholism.md",
-    "zizkarna/meet_230729.md",
-    "zizkarna/svetlobox.md",
-    "contacts/bands/dhogh.md",
+    "contacts/persons/svehla_jura.md",
+    "zizkarna/husovka_event.md",
+    "zizkarna/den_pro_uk.md",
     "zz_mesto_lidem.txt.sb-743e9e4b-eqdxnr",
     "personal",
-    "zizkarna",
-    "contacts/bands/sraja.md",
-    "contacts/bands/dj_skinny_boy.md",
-    "contacts/bands/nuly.md",
-    "contacts/bands/hruba_alzbeta.md",
-    "contacts/bands/pirosuk_viktor.md",
-    "contacts/bands/bob_kubert.md",
-    "contacts/bands/bataty.md",
-    "contacts/bands/slam_poetry.md",
-    "contacts",
-    "contacts/bands",
-    "imgs/ppa.jpg",
-    "contacts/persons",
-    "imgs/pso.jpg",
-    "imgs",
-    "~/Downloads",
-    "~",
     "Untitled.canvas"
   ]
 }

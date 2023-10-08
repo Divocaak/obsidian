@@ -22,7 +22,7 @@
       }
     },
     {
-      "query": "path:imgs",
+      "query": "file:.jpg",
       "color": {
         "a": 1,
         "rgb": 9408399
@@ -67,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0208555854168402,
+  "scale": 0.8505958171324276,
   "close": false
 }

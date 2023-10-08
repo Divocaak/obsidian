@@ -1,5 +1,13 @@
 
 #personal #finance
+
+
+- [ ] setup DCAs
+- [ ] update document
+- [ ] 3commas
+- [ ] coinbase
+- [ ] bake
+- [ ] ledger stax
 ## Crypto
 
 první sloupeček slouží k porovnávání napříč službami
