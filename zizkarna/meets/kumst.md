@@ -1,5 +1,6 @@
 
-#Žižkárna #personal 
+#Žižkárna
+
 ## alternativní hudební scéna a  jak se do ní dostat
 
 ### o čem

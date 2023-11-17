@@ -1,3 +1,6 @@
+
+#coding
+
 [nadpis (název článku)]
 
 [požadovaný datum publikování (pokud nebude vyplněno, nechávám defaultní, což je ten datum, kdy to přidám)]

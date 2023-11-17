@@ -1,5 +1,5 @@
 
-#personal #coding #finance
+#coding
 
 doménu mají, 3 koncovky
 rezervační sys, plat. brána

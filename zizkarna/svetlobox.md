@@ -1,5 +1,5 @@
 
-#Žižkárna 
+#Žižkárna #wishlist
 
 [[divoky_vojtech|Vojtěch]] [[veit_adam|Adam]]
 

@@ -1,5 +1,5 @@
 
-#personal #diary
+#anm #diary
 
 [[vesela_annemarie|Annemarie]]
 ## neděle

@@ -1,3 +1,6 @@
+
+#teatro_svjotlo 
+
 # Wireframe
 
 Wireframe webové stránky je základní konceptuální náčrtek nebo vizualizace webového rozložení a struktury. Jedná se o jednoduchý grafický nákres, který neobsahuje grafické detaily, barvy nebo obsah, ale slouží k definici a ilustraci základních prvků, rozložení a hierarchie na webových stránkách. Wireframe je zpravidla vytvářen v raném stádiu návrhu webové stránky a slouží jako vodítko pro designéry a vývojáře.

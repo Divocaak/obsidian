@@ -50,23 +50,65 @@
       }
     },
     {
-      "query": "tag:personal",
+      "query": "tag:#personal",
       "color": {
         "a": 1,
         "rgb": 7935
+      }
+    },
+    {
+      "query": "tag:#game_dev  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "tag:#wishlist  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "tag:#teatro_svjotlo  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#tutorial  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#anm  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#diary  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 0.704235060459139,
-  "lineSizeMultiplier": 2.98206670950406,
+  "textFadeMultiplier": -0.3,
+  "nodeSizeMultiplier": 0.888217213114754,
+  "lineSizeMultiplier": 1.32594134221311,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
+  "centerStrength": 0.502689549180328,
+  "repelStrength": 9.59016393442623,
+  "linkStrength": 0.478483606557377,
+  "linkDistance": 30,
   "scale": 0.8505958171324276,
   "close": false
 }
