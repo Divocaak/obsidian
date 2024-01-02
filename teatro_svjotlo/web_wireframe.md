@@ -6,7 +6,7 @@
 Wireframe webové stránky je základní konceptuální náčrtek nebo vizualizace webového rozložení a struktury. Jedná se o jednoduchý grafický nákres, který neobsahuje grafické detaily, barvy nebo obsah, ale slouží k definici a ilustraci základních prvků, rozložení a hierarchie na webových stránkách. Wireframe je zpravidla vytvářen v raném stádiu návrhu webové stránky a slouží jako vodítko pro designéry a vývojáře.
 ## Kalendář událostí
 
-![calendar](imgs/ki_wireframe/calendar.jpg)
+![calendar](calendar.jpg)
 
 Po úspěšném přihlášení do systému bude uživatel automaticky přesměrován na stránku kalendáře, kde se zobrazí seznam událostí, workshopů a networkingových akcí. Každá událost je prezentována ve formě karty s názvem události, místem konání a časem, kdy se koná. To umožňuje uživatelům snadný přehled o nadcházejících událostech.
 
@@ -22,7 +22,7 @@ Navíc, má uživatel také možnost zobrazit si podrobnosti o každé události
 
 ## Detail události
 
-![calendar](imgs/ki_wireframe/event_detail.jpg)
+![calendar](event_detail.jpg)
 
 Detail každé události je prezentován velkolepým formátem, což umožňuje uživatelům ponořit se hlouběji do informací o události. Kromě základních informací, jako je název, místo a čas, je zde k dispozici také podrobný popis události. Tento rozšířený popis poskytuje uživatelům hlubší vhled do toho, co mohou od události očekávat.
 
@@ -36,7 +36,7 @@ Celkově tedy detaily událostí nabízejí uživatelům komplexní a informačn
 
 ## Diskuzní fórum
 
-![user page](imgs/ki_wireframe/forum.jpg)
+![user page](forum.jpg)
 
 Pro podporu komunity kreativců máme k dispozici další účinný nástroj - diskuzní fórum. Toto fórum slouží jako centrální místo pro diskusi, sdílení nápadů a získávání cenných informací.
 
@@ -50,7 +50,7 @@ Toto diskuzní fórum je místem, kde se setkávají kreativci, sdílí své my�
 
 ## Detail příspěvku
 
-![user page](imgs/ki_wireframe/forum_detail.jpg)
+![user page](forum_detail.jpg)
 
 Po rozkliknutí konkrétního příspěvku se karta otevře ve větším formátu, což uživatelům umožní získat plný přehled o obsahu tohoto příspěvku. Zde je k dispozici celý text příspěvku, a co je důležité, uživatelé mají také možnost reagovat na tento příspěvek, což podporuje aktivní komunikaci a diskuzi.
 
@@ -62,7 +62,7 @@ Tímto způsobem diskuzní fórum podporuje interaktivní a hierarchickou komuni
 
 ## Osobní portfolio
 
-![user page](imgs/ki_wireframe/user_page.jpg)
+![user page](user_page.jpg)
 
 Nesmíme opomenout, že nejvýznamnější stránkou celé aplikace je pro každého uživatele jeho vlastní osobní profesionální portfolio. Tato stránka slouží uživatelům jako digitální vizitka, která umožňuje uživatelům zaujmout jedinečným dojmem a prezentovat své dovednosti, zkušenosti a úspěchy.
 

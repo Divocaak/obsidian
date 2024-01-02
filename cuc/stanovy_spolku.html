@@ -1,0 +1,227 @@
+<!doctype html>
+<html>
+    <head>
+        <title>stanovy_spolku</title>
+        <meta charset='utf-8'/>
+        <style>
+ .ͼ1.cm-focused {outline: 1px dotted #212121;}
+.ͼ1 {position: relative !important; box-sizing: border-box; display: flex !important; flex-direction: column;}
+.ͼ1 .cm-scroller {display: flex !important; align-items: flex-start !important; font-family: monospace; line-height: 1.4; height: 100%; overflow-x: auto; position: relative; z-index: 0;}
+.ͼ1 .cm-content[contenteditable=true] {-webkit-user-modify: read-write-plaintext-only;}
+.ͼ1 .cm-content {margin: 0; flex-grow: 2; flex-shrink: 0; display: block; white-space: pre; word-wrap: normal; box-sizing: border-box; min-height: 100%; padding: 4px 0; outline: none;}
+.ͼ1 .cm-lineWrapping {white-space: pre-wrap; white-space: break-spaces; word-break: break-word; overflow-wrap: anywhere; flex-shrink: 1;}
+.ͼ2 .cm-content {caret-color: black;}
+.ͼ3 .cm-content {caret-color: white;}
+.ͼ1 .cm-line {display: block; padding: 0 2px 0 6px;}
+.ͼ1 .cm-layer > * {position: absolute;}
+.ͼ1 .cm-layer {position: absolute; left: 0; top: 0; contain: size style;}
+.ͼ2 .cm-selectionBackground {background: #d9d9d9;}
+.ͼ3 .cm-selectionBackground {background: #222;}
+.ͼ2.cm-focused > .cm-scroller > .cm-selectionLayer .cm-selectionBackground {background: #d7d4f0;}
+.ͼ3.cm-focused > .cm-scroller > .cm-selectionLayer .cm-selectionBackground {background: #233;}
+.ͼ1 .cm-cursorLayer {pointer-events: none;}
+.ͼ1.cm-focused > .cm-scroller > .cm-cursorLayer {animation: steps(1) cm-blink 1.2s infinite;}
+@keyframes cm-blink {50% {opacity: 0;}}
+@keyframes cm-blink2 {50% {opacity: 0;}}
+.ͼ1 .cm-cursor, .ͼ1 .cm-dropCursor {border-left: 1.2px solid black; margin-left: -0.6px; pointer-events: none;}
+.ͼ1 .cm-cursor {display: none;}
+.ͼ3 .cm-cursor {border-left-color: #444;}
+.ͼ1 .cm-dropCursor {position: absolute;}
+.ͼ1.cm-focused > .cm-scroller > .cm-cursorLayer .cm-cursor {display: block;}
+.ͼ2 .cm-activeLine {background-color: #cceeff44;}
+.ͼ3 .cm-activeLine {background-color: #99eeff33;}
+.ͼ2 .cm-specialChar {color: red;}
+.ͼ3 .cm-specialChar {color: #f78;}
+.ͼ1 .cm-gutters {flex-shrink: 0; display: flex; height: 100%; box-sizing: border-box; inset-inline-start: 0; z-index: 200;}
+.ͼ2 .cm-gutters {background-color: #f5f5f5; color: #6c6c6c; border-right: 1px solid #ddd;}
+.ͼ3 .cm-gutters {background-color: #333338; color: #ccc;}
+.ͼ1 .cm-gutter {display: flex !important; flex-direction: column; flex-shrink: 0; box-sizing: border-box; min-height: 100%; overflow: hidden;}
+.ͼ1 .cm-gutterElement {box-sizing: border-box;}
+.ͼ1 .cm-lineNumbers .cm-gutterElement {padding: 0 3px 0 5px; min-width: 20px; text-align: right; white-space: nowrap;}
+.ͼ2 .cm-activeLineGutter {background-color: #e2f2ff;}
+.ͼ3 .cm-activeLineGutter {background-color: #222227;}
+.ͼ1 .cm-panels {box-sizing: border-box; position: sticky; left: 0; right: 0;}
+.ͼ2 .cm-panels {background-color: #f5f5f5; color: black;}
+.ͼ2 .cm-panels-top {border-bottom: 1px solid #ddd;}
+.ͼ2 .cm-panels-bottom {border-top: 1px solid #ddd;}
+.ͼ3 .cm-panels {background-color: #333338; color: white;}
+.ͼ1 .cm-tab {display: inline-block; overflow: hidden; vertical-align: bottom;}
+.ͼ1 .cm-widgetBuffer {vertical-align: text-top; height: 1em; width: 0; display: inline;}
+.ͼ1 .cm-placeholder {color: #888; display: inline-block; vertical-align: top;}
+.ͼ1 .cm-highlightSpace:before {content: attr(data-display); position: absolute; pointer-events: none; color: #888;}
+.ͼ1 .cm-highlightTab {background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="200" height="20"><path stroke="%23888" stroke-width="1" fill="none" d="M1 10H196L190 5M190 15L196 10M197 4L197 16"/></svg>'); background-size: auto 100%; background-position: right 90%; background-repeat: no-repeat;}
+.ͼ1 .cm-trailingSpace {background-color: #ff332255;}
+.ͼ1 .cm-button {vertical-align: middle; color: inherit; font-size: 70%; padding: .2em 1em; border-radius: 1px;}
+.ͼ2 .cm-button:active {background-image: linear-gradient(#b4b4b4, #d0d3d6);}
+.ͼ2 .cm-button {background-image: linear-gradient(#eff1f5, #d9d9df); border: 1px solid #888;}
+.ͼ3 .cm-button:active {background-image: linear-gradient(#111, #333);}
+.ͼ3 .cm-button {background-image: linear-gradient(#393939, #111); border: 1px solid #888;}
+.ͼ1 .cm-textfield {vertical-align: middle; color: inherit; font-size: 70%; border: 1px solid silver; padding: .2em .5em;}
+.ͼ2 .cm-textfield {background-color: white;}
+.ͼ3 .cm-textfield {border: 1px solid #555; background-color: inherit;}
+.ͼ1 .cm-foldPlaceholder {background-color: #eee; border: 1px solid #ddd; color: #888; border-radius: .2em; margin: 0 1px; padding: 0 1px; cursor: pointer;}
+.ͼ1 .cm-foldGutter span {padding: 0 1px; cursor: pointer;}
+ /* At Symbol Linking styles */
+.at-symbol-linking-folder-container {
+	border: none;
+}
+
+.at-symbol-linking-folder-setting {
+	.search-input-container {
+		width: 100%;
+	}
+}
+
+.at-symbol-linking-suggestion {
+	align-items: baseline;
+	display: flex;
+	justify-content: space-between;
+}
+
+.at-symbol-linking-suggestion .suggestion-context {
+	display: flex;
+	flex-direction: column;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	margin-right: auto;
+}
+
+.at-symbol-linking-suggestion .suggestion-path {
+	font-size: 0.8em;
+	color: var(--text-muted);
+	width: 100%;
+	flex-basis: 100%;
+	overflow-wrap: break-word;
+}
+
+.at-symbol-linking-suggestion .suggestion-aux {
+	display: flex;
+	align-items: center;
+	align-self: center;
+	flex-shrink: 0;
+}
+
+.at-symbol-linking-suggestion .suggestion-flair {
+	color: var(--text-muted);
+	opacity: var(--icon-opacity);
+	margin: 0 4px 0 12px;
+	display: flex;
+	align-items: center;
+}
+
+/* Manual extension */
+.extension-container-at-symbol-linking {
+	width: fit-content !important;
+	max-width: 500px;
+}
+ .brat-modal .modal-button-container {
+  margin-top: 5px !important;
+}
+ 
+.pandoc-plugin-error {
+    color: red;
+}
+ undefined
+</style>
+    </head>
+    <body>
+<h1 data-heading="Stanovy">Stanovy</h1>
+<p>ČUČ, z. s.</p>
+<h2 data-heading="čl. I., Název&nbsp;a&nbsp;sídlo,&nbsp;působnost&nbsp;a&nbsp;charakter&nbsp;spolku">čl. I., Název&nbsp;a&nbsp;sídlo,&nbsp;působnost&nbsp;a&nbsp;charakter&nbsp;spolku</h2>
+<ul>
+<li>název&nbsp;spolku: ČUČ,&nbsp;z.&nbsp;s. (dále&nbsp;jen&nbsp;<strong>spolek</strong>);</li>
+<li>sídlo a provozovna:&nbsp;Jiráskovo nábř. 1555/7, 370 04 České Budějovice</li>
+<li>Spolek&nbsp;působí&nbsp;na&nbsp;celém&nbsp;území&nbsp;České&nbsp;republiky,&nbsp;spolek&nbsp;se&nbsp;nečlení&nbsp;na&nbsp;organizační&nbsp;jednotky&nbsp;(spolek&nbsp;je&nbsp;místně&nbsp;příslušnou&nbsp;organizační&nbsp;jednotkou).</li>
+<li>Charakter&nbsp;spolku&nbsp;–&nbsp;spolek&nbsp;je&nbsp;zapsaným&nbsp;spolkem&nbsp;podle&nbsp;zákona&nbsp;č. 89/2012 Sb.,&nbsp;občanského zákoníku.</li>
+</ul>
+<h2 data-heading="čl. II., Účel&nbsp;spolku">čl. II., Účel&nbsp;spolku</h2>
+<p>Účelem&nbsp;spolku&nbsp;je&nbsp;pořádání&nbsp;kulturních&nbsp;akcí&nbsp;s&nbsp;charitativním&nbsp;účelem.</p>
+<h2 data-heading="čl. III., Cíle&nbsp;spolku&nbsp;a&nbsp;předmět&nbsp;jeho&nbsp;činnosti">čl. III., Cíle&nbsp;spolku&nbsp;a&nbsp;předmět&nbsp;jeho&nbsp;činnosti</h2>
+<ol>
+<li>pořádání&nbsp;charitativních&nbsp;kulturních&nbsp;akcí&nbsp;v&nbsp;rámci&nbsp;podpory&nbsp;znevýhodněných&nbsp;osob</li>
+<li>zajišťování&nbsp;finančních&nbsp;prostředků&nbsp;nezbytných&nbsp;pro&nbsp;realizaci&nbsp;projektů&nbsp;naplňujících&nbsp;účel spolku</li>
+<li>příprava&nbsp;charitativních&nbsp;akcí&nbsp;s&nbsp;hudební&nbsp;produkcí</li>
+<li>další&nbsp;formy&nbsp;činností&nbsp;a&nbsp;konkretizaci&nbsp;činností&nbsp;stanoví&nbsp;členská&nbsp;schůze</li>
+</ol>
+<h2 data-heading="čl. IV., Členství&nbsp;ve&nbsp;spolku">čl. IV., Členství&nbsp;ve&nbsp;spolku</h2>
+<ul>
+<li>Členem&nbsp;spolku&nbsp;mohou&nbsp;být&nbsp;fyzické&nbsp;osoby&nbsp;a&nbsp;právnické&nbsp;osoby.</li>
+<li>Přihlášku&nbsp;ke&nbsp;členství&nbsp;přijímá&nbsp;předseda,&nbsp;který&nbsp;také&nbsp;rozhoduje&nbsp;o&nbsp;přijetí&nbsp;nového&nbsp;člena spolku.</li>
+<li>Zakládajícími&nbsp;členy&nbsp;spolku&nbsp;jsou&nbsp;alespoň&nbsp;3&nbsp;osoby,&nbsp;vedené&nbsp;společným&nbsp;zájmem&nbsp;vést spolek&nbsp;jako&nbsp;samosprávný&nbsp;a&nbsp;dobrovolný&nbsp;svazek&nbsp;členů.</li>
+</ul>
+<p>Členství&nbsp;zaniká:</p>
+<ol>
+<li>závažným&nbsp;porušením&nbsp;povinnosti&nbsp;vyplývající&nbsp;z&nbsp;členství;</li>
+<li>doručením&nbsp;písemného&nbsp;oznámení&nbsp;člena&nbsp;o&nbsp;vystoupení;</li>
+<li>rozhodnutím&nbsp;o&nbsp;vyloučení;</li>
+<li>úmrtím,&nbsp;zánikem&nbsp;právnické&nbsp;osoby&nbsp;–&nbsp;člena&nbsp;spolku,&nbsp;zánikem&nbsp;spolku.</li>
+</ol>
+<p>Člen&nbsp;má&nbsp;právo:</p>
+<ol>
+<li>účastnit&nbsp;se&nbsp;činnosti&nbsp;spolku&nbsp;a&nbsp;jeho&nbsp;orgánů&nbsp;a&nbsp;být&nbsp;o&nbsp;této&nbsp;činnosti&nbsp;informován;</li>
+<li>předkládat&nbsp;návrhy,&nbsp;podněty&nbsp;a&nbsp;připomínky&nbsp;k&nbsp;činnosti&nbsp;spolku;</li>
+<li>podílet&nbsp;se&nbsp;na&nbsp;stanovování&nbsp;cílů&nbsp;a&nbsp;forem&nbsp;činnosti&nbsp;spolku.</li>
+</ol>
+<p>Člen&nbsp;má&nbsp;povinnost:</p>
+<ol>
+<li>dodržovat&nbsp;tyto&nbsp;stanovy&nbsp;a&nbsp;jednat&nbsp;v&nbsp;souladu&nbsp;s&nbsp;cíli&nbsp;spolku;</li>
+<li>svou&nbsp;činností&nbsp;naplňovat&nbsp;cíle spolku;</li>
+<li>podílet se na chodu spolku pravidelným členským příspěvkem, který každý rok stanoví rada.</li>
+</ol>
+<h2 data-heading="čl. V., Orgány&nbsp;spolku">čl. V., Orgány&nbsp;spolku</h2>
+<ol>
+<li>výkonná&nbsp;rada&nbsp;jako&nbsp;nejvyšší&nbsp;orgán</li>
+<li>předseda&nbsp;jako&nbsp;statutární&nbsp;orgán</li>
+</ol>
+<h2 data-heading="čl. VI., Statutární&nbsp;orgán">čl. VI., Statutární&nbsp;orgán</h2>
+<ul>
+<li>Statutárním&nbsp;orgánem&nbsp;spolku&nbsp;je&nbsp;<strong>předseda</strong>.</li>
+<li>Předsednictví&nbsp;nabývá&nbsp;platnosti&nbsp;v den&nbsp;zvolení.</li>
+<li>Činí&nbsp;veškeré&nbsp;právní&nbsp;úkony&nbsp;a&nbsp;podepisuje&nbsp;smlouvy&nbsp;a&nbsp;dohody&nbsp;za&nbsp;spolek.</li>
+</ul>
+<h2 data-heading="čl. VII., Výkonná&nbsp;rada">čl. VII., Výkonná&nbsp;rada</h2>
+<ul>
+<li>Výkonná&nbsp;rada&nbsp;je&nbsp;nejvyšším&nbsp;orgánem&nbsp;spolku (dále&nbsp;jen&nbsp;<strong>rada</strong>).</li>
+<li>Rada se&nbsp;schází&nbsp;nejméně&nbsp;jednou&nbsp;ročně.</li>
+<li>Rada je&nbsp;tříčlenná, prvními&nbsp;členy&nbsp;rady&nbsp;jsou&nbsp;zakladatelé&nbsp;spolku.</li>
+<li>V&nbsp;případě&nbsp;ukončení&nbsp;členství&nbsp;ve&nbsp;spolku nebo&nbsp;rezignace&nbsp;na&nbsp;funkci&nbsp;člena&nbsp;rady, se&nbsp;rada&nbsp;doplňuje&nbsp;přijmutím&nbsp;návrhu&nbsp;náhrady&nbsp;za&nbsp;daného&nbsp;člena&nbsp;rady.</li>
+<li>Rada&nbsp;je&nbsp;usnášeníschopná, je-li&nbsp;přítomna&nbsp;nadpoloviční většina.
+<ul>
+<li>Nesejde-li se v&nbsp;potřebném počtu,&nbsp;svolá&nbsp;se&nbsp;nejpozději&nbsp;do&nbsp;šesti&nbsp;dnů&nbsp;náhradní&nbsp;zasedání&nbsp;rady.</li>
+<li>Nové&nbsp;zasedání&nbsp;rady&nbsp;je&nbsp;usnášení schopné&nbsp;bez&nbsp;ohledu&nbsp;na&nbsp;počet&nbsp;přítomných&nbsp;členů.</li>
+</ul>
+</li>
+<li>Rada&nbsp;přijímá&nbsp;rozhodnutí hlasováním
+<ul>
+<li>Pro&nbsp;přijetí&nbsp;rozhodnutí&nbsp;je&nbsp;potřeba&nbsp;souhlas&nbsp;nadpoloviční&nbsp;většiny přítomných&nbsp;členů,&nbsp;pokud&nbsp;tyto&nbsp;stanovy&nbsp;neurčí&nbsp;jinak.</li>
+<li>Každý&nbsp;člen&nbsp;má&nbsp;1&nbsp;hlas.</li>
+</ul>
+</li>
+<li>Rada&nbsp;může&nbsp;být&nbsp;svolána,&nbsp;požádá-li o to 1/3&nbsp;členů&nbsp;spolku a to&nbsp;ve&nbsp;lhůtě&nbsp;do&nbsp;jednoho&nbsp;měsíce,&nbsp;není-li v&nbsp;žádosti&nbsp;uvedena&nbsp;lhůta&nbsp;pozdější.</li>
+<li>V&nbsp;případě,&nbsp;že&nbsp;usnesení&nbsp;rady&nbsp;se&nbsp;příčí&nbsp;dobrým&nbsp;mravům&nbsp;či&nbsp;odporuje&nbsp;těmto&nbsp;stanovám,&nbsp;hledí se&nbsp;na&nbsp;něj,&nbsp;jakoby&nbsp;nebylo&nbsp;přijato.</li>
+</ul>
+<p>Členové&nbsp;výkonné&nbsp;rady</p>
+<ul>
+<li>volí&nbsp;předsedu&nbsp;spolku;</li>
+<li>schvalují&nbsp;stanovy&nbsp;spolku&nbsp;a&nbsp;jejich&nbsp;změny,&nbsp;rozhodují&nbsp;o&nbsp;zániku&nbsp;spolku;
+<ul>
+<li>pro&nbsp;přijetí&nbsp;těchto rozhodnutí&nbsp;je&nbsp;potřeba&nbsp;souhlas&nbsp;2/3&nbsp;členů&nbsp;rady</li>
+</ul>
+</li>
+<li>schvalují&nbsp;rozpočet,&nbsp;zprávu&nbsp;o&nbsp;činnosti,&nbsp;zprávu&nbsp;o&nbsp;hospodaření&nbsp;za&nbsp;minulé&nbsp;období&nbsp;a&nbsp;revizní zprávu;</li>
+<li>konkretizují&nbsp;činnost&nbsp;pro&nbsp;další&nbsp;období;</li>
+<li>mají&nbsp;právo&nbsp;jednat&nbsp;jménem&nbsp;spolku,&nbsp;zastupovat&nbsp;ho&nbsp;navenek,&nbsp;rozhodovat&nbsp;v&nbsp;záležitostech spolku.</li>
+</ul>
+<h2 data-heading="čl. VIII., Zásady&nbsp;hospodaření">čl. VIII., Zásady&nbsp;hospodaření</h2>
+<ul>
+<li>Spolek&nbsp;je&nbsp;neziskovou&nbsp;organizací.</li>
+<li>Případné&nbsp;příjmy&nbsp;budou&nbsp;tvořit&nbsp;dary,&nbsp;dotace,&nbsp;granty&nbsp;a&nbsp;příjmy&nbsp;z &nbsp;činnosti&nbsp;spolku&nbsp;a &nbsp;z&nbsp;majetku&nbsp;spolku, a&nbsp;budou&nbsp;používány&nbsp;na&nbsp;činnost&nbsp;spolku.</li>
+<li>Výdaje&nbsp;spolku&nbsp;jsou&nbsp;zaměřeny&nbsp;na&nbsp;uskutečňování&nbsp;cílů&nbsp;spolku&nbsp;v&nbsp;souladu&nbsp;s&nbsp;jeho&nbsp;hlavní činností&nbsp;podle&nbsp;těchto&nbsp;stanov&nbsp;a&nbsp;rozpočtem&nbsp;spolku.</li>
+</ul>
+<h2 data-heading="čl. IX., Okolnosti&nbsp;zániku&nbsp;spolku">čl. IX., Okolnosti&nbsp;zániku&nbsp;spolku</h2>
+<ul>
+<li>V&nbsp;případě&nbsp;zániku&nbsp;bude&nbsp;případný&nbsp;zbylý&nbsp;majetek&nbsp;po&nbsp;likvidaci&nbsp;předán&nbsp;na&nbsp;základě rozhodnutí&nbsp;výboru&nbsp;neziskové&nbsp;právnické&nbsp;osobě,&nbsp;jejíž&nbsp;cíle&nbsp;jsou&nbsp;blízké&nbsp;cílům&nbsp;spolku.</li>
+<li>Spolek&nbsp;může&nbsp;zaniknout&nbsp;rozhodnutím&nbsp;soudu.</li>
+</ul>
+    </body>
+</html>

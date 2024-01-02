@@ -1,7 +1,5 @@
 
-#Žižkárna #wishlist
-
-[[divoky_vojtech|Vojtěch]] [[veit_adam|Adam]]
+#Žižkárna 
 
 [reference](https://www.youtube.com/watch?v=Me3-dcMfEtM)
 ## nákupní seznam

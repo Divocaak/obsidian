@@ -1,5 +1,5 @@
 
-#Žižkárna #wishlist
+#Žižkárna 
 
 ## dílna/produkce
 
