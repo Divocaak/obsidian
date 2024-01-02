@@ -1,28 +1,14 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:contacts/persons",
-      "color": {
-        "a": 1,
-        "rgb": 11468544
-      }
-    },
-    {
-      "query": "path:contacts/bands",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "path:imgs",
+      "query": "file:.jpg",
       "color": {
         "a": 1,
         "rgb": 9408399
@@ -36,37 +22,86 @@
       }
     },
     {
-      "query": "tag:#coding",
+      "query": "tag:#teatro_svjotlo  ",
       "color": {
         "a": 1,
-        "rgb": 65471
+        "rgb": 16729927
       }
     },
     {
-      "query": "tag:#finance",
+      "query": "tag:#čuč  ",
       "color": {
         "a": 1,
-        "rgb": 16711927
+        "rgb": 16734039
       }
     },
     {
-      "query": "tag:personal",
+      "query": "tag:#continuo  ",
       "color": {
         "a": 1,
-        "rgb": 7935
+        "rgb": 16748431
+      }
+    },
+    {
+      "query": "tag:#coding  ",
+      "color": {
+        "a": 1,
+        "rgb": 255
+      }
+    },
+    {
+      "query": "tag:#finance  ",
+      "color": {
+        "a": 1,
+        "rgb": 3355647
+      }
+    },
+    {
+      "query": "tag:#songs",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    },
+    {
+      "query": "tag:#diary ",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
+      }
+    },
+    {
+      "query": "tag:#lists  ",
+      "color": {
+        "a": 1,
+        "rgb": 6070742
+      }
+    },
+    {
+      "query": "tag:#vs  ",
+      "color": {
+        "a": 1,
+        "rgb": 14054492
+      }
+    },
+    {
+      "query": "tag:#liquids  ",
+      "color": {
+        "a": 1,
+        "rgb": 16514816
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 0.704235060459139,
-  "lineSizeMultiplier": 0.784666160406566,
-  "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.0699131939336628,
+  "textFadeMultiplier": -0.3,
+  "nodeSizeMultiplier": 0.86625256147541,
+  "lineSizeMultiplier": 1.32594134221311,
+  "collapse-forces": true,
+  "centerStrength": 0.537717725409836,
+  "repelStrength": 10.0563524590164,
+  "linkStrength": 0.710681352459016,
+  "linkDistance": 30,
+  "scale": 0.7087322187964074,
   "close": false
 }
